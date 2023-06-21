@@ -9,3 +9,5 @@ https://tubular-dango-81e56b.netlify.app/
 
 - npm install
 - npm run dev
+
+This app searches and render pictures of what is searched in the form, through Unsplash Img API.
